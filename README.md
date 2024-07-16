@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
  <h1 align="center">LeetCode Stats ✨</h1>
 <p align="center">
   <a href="[https://github.com/KnlnKS/leetcode-stats](https://leetcode.com/trietnguyenpham/)">
     <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=trietnguyenpham&theme=dark" width="400"/>
   </a>
 </p>
+-->
 
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PNCTriet&show_icons=true&locale=en&layout=compact" alt="PNCTriet" /></a>
  
