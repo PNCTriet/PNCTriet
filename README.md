@@ -21,10 +21,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 -->
-
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PNCTriet&show_icons=true&locale=en&layout=compact" alt="PNCTriet" /></a>
- 
-<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PNCTriet&show_icons=true&locale=en" alt="PNCTriet" /></a>
  
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PNCTriet&" alt="PNCTriet" /></a>
 
